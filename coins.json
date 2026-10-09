@@ -1,0 +1,1457 @@
+[
+  {
+    "id": "walrus-the-tusk",
+    "symbol": "$TUSK",
+    "name": "Walrus the tusk",
+    "coin_type": "0x1fc50c2a9edf1497011c793cb5c88fd5f257fd7009e85a489392f388b1118f82::tusk::TUSK",
+    "image": "https://coin-images.coingecko.com/coins/images/50623/large/1000000746.jpg?1728498811",
+    "current_price_usd": 9.30679e-07,
+    "market_cap_usd": 8376.04
+  },
+  {
+    "id": "aftermath-staked-sui",
+    "symbol": "AFSUI",
+    "name": "Aftermath Staked SUI",
+    "coin_type": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+    "image": "https://coin-images.coingecko.com/coins/images/32391/large/coin_icon_afsui.png?1698051868",
+    "current_price_usd": 1.15,
+    "market_cap_usd": 3392502
+  },
+  {
+    "id": "aia",
+    "symbol": "AIA",
+    "name": "DeAgentAI",
+    "coin_type": "0x99cc0e7834326ec6ac571421e9b8e042e9eb63062771c77ac592bd194180b5da::deagent_token::DEAGENT_TOKEN",
+    "image": "https://coin-images.coingecko.com/coins/images/69053/large/DA-AIA.png?1757348456",
+    "current_price_usd": 0.079337,
+    "market_cap_usd": 7894560
+  },
+  {
+    "id": "aida-2",
+    "symbol": "AIDA",
+    "name": "Aida",
+    "coin_type": "0xcee208b8ae33196244b389e61ffd1202e7a1ae06c8ec210d33402ff649038892::aida::AIDA",
+    "image": "https://coin-images.coingecko.com/coins/images/70667/large/image_cropped.jpg?1763016011",
+    "current_price_usd": 2.17e-06,
+    "market_cap_usd": 2168.86
+  },
+  {
+    "id": "alkimi-2",
+    "symbol": "ALKIMI",
+    "name": "ALKIMI",
+    "coin_type": "0x1a8f4bc33f8ef7fbc851f156857aa65d397a6a6fd27a7ac2ca717b51f2fd9489::alkimi::ALKIMI",
+    "image": "https://coin-images.coingecko.com/coins/images/68374/large/Token_circle.png?1755523677",
+    "current_price_usd": 0.00061991,
+    "market_cap_usd": 233205
+  },
+  {
+    "id": "alpha-fi",
+    "symbol": "ALPHA",
+    "name": "Alpha Fi",
+    "coin_type": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA",
+    "image": "https://coin-images.coingecko.com/coins/images/39087/large/Alpha_Logo_200_200.png?1720460811",
+    "current_price_usd": 0.02510257,
+    "market_cap_usd": 250282
+  },
+  {
+    "id": "artfi",
+    "symbol": "ARTFI",
+    "name": "ARTFI",
+    "coin_type": "0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI",
+    "image": "https://coin-images.coingecko.com/coins/images/38242/large/ARTFI_TOKEN_200_200.png?1716968882",
+    "current_price_usd": 0.00065645,
+    "market_cap_usd": 85581
+  },
+  {
+    "id": "attention",
+    "symbol": "ATTN",
+    "name": "Attention",
+    "coin_type": "0x0ef38abcdaaafedd1e2d88929068a3f65b59bf7ee07d7e8f573c71df02d27522::attn::ATTN",
+    "image": "https://coin-images.coingecko.com/coins/images/56075/large/attn_png_CMC.png?1748344466",
+    "current_price_usd": 0.0007526,
+    "market_cap_usd": 752598
+  },
+  {
+    "id": "agora-dollar",
+    "symbol": "AUSD",
+    "name": "AUSD",
+    "coin_type": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
+    "image": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132",
+    "current_price_usd": 0.999104,
+    "market_cap_usd": 192072304
+  },
+  {
+    "id": "avalanche-wormhole",
+    "symbol": "AVAX",
+    "name": "Avalanche (Wormhole)",
+    "coin_type": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/22943/large/AVAX_wh_small.png?1696522240",
+    "current_price_usd": 10.41,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "axol",
+    "symbol": "AXOL",
+    "name": "AXOL",
+    "coin_type": "0xf00eb7ab086967a33c04a853ad960e5c6b0955ef5a47d50b376d83856dc1215e::axol::AXOL",
+    "image": "https://coin-images.coingecko.com/coins/images/50412/large/AXOL.png?1727667274",
+    "current_price_usd": 0.00049525,
+    "market_cap_usd": 495111
+  },
+  {
+    "id": "balance-tokens",
+    "symbol": "BALN",
+    "name": "Balanced",
+    "coin_type": "0x3ae6be8e58c0e0715764971b750709e67c6de33e38bbecafe25b5f3dd5080a39::balanced_token::BALANCED_TOKEN"
+  },
+  {
+    "id": "bitcastle-token",
+    "symbol": "BCE",
+    "name": "bitcastle Token",
+    "coin_type": "0x34d12f761847a05dfa33a1692440588f4b5f7f24be619334e29d74e083f5e64e::bce::BCE",
+    "image": "https://coin-images.coingecko.com/coins/images/70260/large/bitcastle_Logo_RGB_Blue_03.png?1761300014",
+    "current_price_usd": 0.03340542,
+    "market_cap_usd": 13362236
+  },
+  {
+    "id": "beeg-blue-whale",
+    "symbol": "BEEG",
+    "name": "Beeg Blue Whale",
+    "coin_type": "0x727458212ca0be056d9ccc0d42981bdf41109779fbd9c7fad56c4456e0c3d0c6::beeg::BEEG",
+    "image": "https://coin-images.coingecko.com/coins/images/50505/large/5A932CAE-3A19-4EDA-AC17-DEEA05DB85F4.png?1771952928",
+    "current_price_usd": 2.21e-06,
+    "market_cap_usd": 22052
+  },
+  {
+    "id": "billy-on-sui",
+    "symbol": "BILLY",
+    "name": "Billy on SUI",
+    "coin_type": "0xbc598ef950f73d43645e9ac3c961afb4037a172dd187ec3edc3ca3102051fa7c::billy::BILLY",
+    "image": "https://coin-images.coingecko.com/coins/images/68748/large/download_%283%29.png?1756451714",
+    "current_price_usd": 5e-06,
+    "market_cap_usd": 2929.57
+  },
+  {
+    "id": "bluwhale",
+    "symbol": "BLUAI",
+    "name": "Bluwhale",
+    "coin_type": "0xf8bfaf1cfefdc539a00e0bc37213c8f339cb411a6b0c4c023ed92f36c68d0fb6::bluwhale_ai::BLUWHALE_AI",
+    "image": "https://coin-images.coingecko.com/coins/images/70201/large/bluwhale.png?1761018866",
+    "current_price_usd": 0.00831372,
+    "market_cap_usd": 10210193
+  },
+  {
+    "id": "blub",
+    "symbol": "BLUB",
+    "name": "BLUB",
+    "coin_type": "0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::BLUB::BLUB",
+    "image": "https://coin-images.coingecko.com/coins/images/39356/large/Frame_38.png?1721888572",
+    "current_price_usd": 5.694e-09,
+    "market_cap_usd": 2394668
+  },
+  {
+    "id": "bluefin",
+    "symbol": "BLUE",
+    "name": "Bluefin",
+    "coin_type": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb07296d4085e349a50e90bdca::blue::BLUE",
+    "image": "https://coin-images.coingecko.com/coins/images/30883/large/BLUE_200x200.png?1733350278",
+    "current_price_usd": 0.00909402,
+    "market_cap_usd": 5488824
+  },
+  {
+    "id": "tbook-token",
+    "symbol": "BOOK",
+    "name": "TBook Token",
+    "coin_type": "0x440aa32fe6290224b7b5fc37d20e093c6841263302d5bd693a64a8a24bc0c589"
+  },
+  {
+    "id": "sui-booster-dao",
+    "symbol": "BOOST",
+    "name": "Sui Booster DAO",
+    "coin_type": "0x7bd673d1b980fc2f1c922f91395c325561a675fc2f349c8ffcff7d03bdbeadc8::boost::BOOST",
+    "image": "https://coin-images.coingecko.com/coins/images/55690/large/IMG_8717.PNG?1747035503",
+    "current_price_usd": 1.48e-06,
+    "market_cap_usd": 1478.35
+  },
+  {
+    "id": "brat-2",
+    "symbol": "BRAT",
+    "name": "BRAT",
+    "coin_type": "0xd883b9dc7708547a4b578e3a4ec20a34c5fd866bc61caacbcb4330474032202e::brat::BRAT",
+    "image": "https://coin-images.coingecko.com/coins/images/70564/large/1000038017.jpg?1762538511",
+    "current_price_usd": 0.00022176,
+    "market_cap_usd": 221702
+  },
+  {
+    "id": "bullshark",
+    "symbol": "BSHARK",
+    "name": "BULLSHARK",
+    "coin_type": "0xb3a1146f8dba4f5940480764f204047d8ce0794286c8e5bdc1c111ca2a2ea8ae::bullshark::BULLSHARK",
+    "image": "https://coin-images.coingecko.com/coins/images/55477/large/AVATARE-2.png?1746256355",
+    "current_price_usd": 9.3e-06,
+    "market_cap_usd": 9296.18
+  },
+  {
+    "id": "basket",
+    "symbol": "BSKT",
+    "name": "Basket",
+    "coin_type": "0xd4d52a6bf452401c0c70a1d19ff6cec2933f22a548eae552f3e514f64f61703a::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/34661/large/BSKT_Logo.png?1705636891",
+    "current_price_usd": 6.8531e-08,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "btcvc",
+    "symbol": "BTCVC",
+    "name": "BTCvc",
+    "coin_type": "0xd8fe9619ff2bcef53e0330b83b31ab380a04ee787dafecc19aac365a9824517f::btcvc::BTCVC",
+    "image": "https://coin-images.coingecko.com/coins/images/102175573/large/BTCvc_logo_200x200.png?1786895114",
+    "current_price_usd": 85001,
+    "market_cap_usd": 95695111
+  },
+  {
+    "id": "bucket-protocol-buck-stablecoin",
+    "symbol": "BUCK",
+    "name": "Bucket Protocol BUCK Stablecoin",
+    "coin_type": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
+    "image": "https://coin-images.coingecko.com/coins/images/33846/large/buck-icon.png?1703121631",
+    "current_price_usd": 0.99653,
+    "market_cap_usd": 25866233
+  },
+  {
+    "id": "sui-bull",
+    "symbol": "BULL",
+    "name": "Sui Bull",
+    "coin_type": "0xb0b6d9fa117da4f47c4895c4216cd3cad37d3b2f4425c62dbd4f4638b44e3f93::bull::BULL",
+    "image": "https://coin-images.coingecko.com/coins/images/50386/large/SuiBullLogo.PNG?1727427765",
+    "current_price_usd": 4.89685e-07,
+    "market_cap_usd": 4896.85
+  },
+  {
+    "id": "bucket-token",
+    "symbol": "BUT",
+    "name": "Bucket Token",
+    "coin_type": "0xbc858cb910b9914bee64fff0f9b38855355a040c49155a17b265d9086d256545::but::BUT",
+    "image": "https://coin-images.coingecko.com/coins/images/53585/large/BUT_logo.png?1736792424",
+    "current_price_usd": 0.00064485,
+    "market_cap_usd": 272318
+  },
+  {
+    "id": "cap-2",
+    "symbol": "CAP",
+    "name": "CAP",
+    "coin_type": "0x893aa3f358b70e7dbcf957c64a1f016633630af42fb6097f25c33ef9fa738dd2::cap::CAP",
+    "image": "https://coin-images.coingecko.com/coins/images/50546/large/CappyCentered.jpg?1728287000",
+    "current_price_usd": 3.32e-06,
+    "market_cap_usd": 3323.9
+  },
+  {
+    "id": "cetus-protocol",
+    "symbol": "CETUS",
+    "name": "Cetus Protocol",
+    "coin_type": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+    "image": "https://coin-images.coingecko.com/coins/images/30256/large/cetus.png?1696529165",
+    "current_price_usd": 0.02558464,
+    "market_cap_usd": 24692020
+  },
+  {
+    "id": "chirp-token",
+    "symbol": "CHIRP",
+    "name": "Chirp Token",
+    "coin_type": "0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP",
+    "image": "https://coin-images.coingecko.com/coins/images/52894/large/Chirp_Icon_Round1.png?1734608014",
+    "current_price_usd": 0.00667836,
+    "market_cap_usd": 939659
+  },
+  {
+    "id": "alpha-city-2",
+    "symbol": "CITY",
+    "name": "Alpha City",
+    "coin_type": "0x308fa16c7aead43e3a49a4ff2e76205ba2a12697234f4fe80a2da66515284060::city::CITY",
+    "image": "https://coin-images.coingecko.com/coins/images/55393/large/IMG_9554.jpeg?1745744117",
+    "current_price_usd": 9.478e-05,
+    "market_cap_usd": 94752
+  },
+  {
+    "id": "culosui",
+    "symbol": "CULO",
+    "name": "CULOSUI",
+    "coin_type": "0xf33bdc280faf4bd0411cac82173b5744b7a40e4b9abc0ad6f51a495c060faf77::culo::CULO",
+    "image": "https://coin-images.coingecko.com/coins/images/67641/large/photo_2025-07-03_21-17-19.jpg?1753373317",
+    "current_price_usd": 9.51e-06,
+    "market_cap_usd": 9512.64
+  },
+  {
+    "id": "suibeaver",
+    "symbol": "DAM",
+    "name": "suibeaver",
+    "coin_type": "0xaf3aae4940a248739ce4964857381fc3f3149a6d05375bfbb2118592907e3bbb::dam::DAM",
+    "image": "https://coin-images.coingecko.com/coins/images/51758/large/suibeaver_square.png?1731927958",
+    "current_price_usd": 1.69e-06,
+    "market_cap_usd": 16917.03
+  },
+  {
+    "id": "deep",
+    "symbol": "DEEP",
+    "name": "DeepBook",
+    "coin_type": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+    "image": "https://coin-images.coingecko.com/coins/images/50648/large/DEEP_Logo_256x256_px_%282%29.png?1728612340",
+    "current_price_usd": 0.02079666,
+    "market_cap_usd": 51979372
+  },
+  {
+    "id": "delorean",
+    "symbol": "DMC",
+    "name": "DeLorean",
+    "coin_type": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
+    "image": "https://coin-images.coingecko.com/coins/images/66778/large/DMC_Token_Icon_Black.png?1750490833",
+    "current_price_usd": 0.00032044,
+    "market_cap_usd": 2458598
+  },
+  {
+    "id": "e4c",
+    "symbol": "E4C",
+    "name": "E4C",
+    "coin_type": "0x84b27ddadc6139c7e8837fef6759eba4670ba3fc0679acd118b4e9252f834e29::e4c::E4C",
+    "image": "https://coin-images.coingecko.com/coins/images/52335/large/E4C-TOKEN-01-compressed.png?1733120411",
+    "current_price_usd": 7.608e-05,
+    "market_cap_usd": 18520.3
+  },
+  {
+    "id": "ember-earn",
+    "symbol": "EEARN",
+    "name": "Ember Earn",
+    "coin_type": "0x34469c8accdd673df02600265cbbad3688577f0e716866e257f88d448d463492::eearn::EEARN",
+    "image": "https://coin-images.coingecko.com/coins/images/102172278/large/ember_earn.jpg?1772596945",
+    "current_price_usd": 1.046,
+    "market_cap_usd": 1307155
+  },
+  {
+    "id": "lorenzo-wrapped-bitcoin",
+    "symbol": "ENZOBTC",
+    "name": "Lorenzo Wrapped Bitcoin",
+    "coin_type": "0x8f2b5eb696ed88b71fea398d330bccfa52f6e2a5a8e1ac6180fcb25c6de42ebc::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/54447/large/enzo_btc.png?1739773963",
+    "current_price_usd": 82583,
+    "market_cap_usd": 357069305
+  },
+  {
+    "id": "epoch-2",
+    "symbol": "EPT",
+    "name": "Epoch",
+    "coin_type": "0x228c580891953873670a13c4dc2e4eb84cae59925a3c774b978af134212092b5::template::TEMPLATE",
+    "image": "https://coin-images.coingecko.com/coins/images/102176546/large/qc4zxb7uuoojdccpqbq3sw87zazt.?1788076849",
+    "current_price_usd": 8.225e-05,
+    "market_cap_usd": 75556
+  },
+  {
+    "id": "ember-sui",
+    "symbol": "ESUI",
+    "name": "Ember SUI",
+    "coin_type": "0x66629328922d609cf15af779719e248ae0e63fe0b9d9739623f763b33a9c97da::esui::ESUI",
+    "image": "https://coin-images.coingecko.com/coins/images/71793/large/esui.jpg?1769407982",
+    "current_price_usd": 1.12,
+    "market_cap_usd": 5663500
+  },
+  {
+    "id": "ethereum-wormhole",
+    "symbol": "ETH",
+    "name": "Ethereum (Wormhole)",
+    "coin_type": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/22990/large/ETH_wh_small.png?1696522286",
+    "current_price_usd": 2500.62,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "ember-third-eye",
+    "symbol": "ETHIRD",
+    "name": "Ember Third Eye",
+    "coin_type": "0x89b0d4407f17cc1b1294464f28e176e29816a40612f7a553313ea0a797a5f803::ethird::ETHIRD",
+    "image": "https://coin-images.coingecko.com/coins/images/102172295/large/ember_third_eye.jpg?1772682778",
+    "current_price_usd": 1.053,
+    "market_cap_usd": 10702326
+  },
+  {
+    "id": "first-digital-usd",
+    "symbol": "FDUSD",
+    "name": "First Digital USD",
+    "coin_type": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+    "image": "https://coin-images.coingecko.com/coins/images/31079/large/FDUSD_icon_black.png?1731097953",
+    "current_price_usd": 0.997114,
+    "market_cap_usd": 324019237
+  },
+  {
+    "id": "flowx-finance",
+    "symbol": "FLX",
+    "name": "FlowX Finance",
+    "coin_type": "0x6dae8ca14311574fdfe555524ea48558e3d1360d1607d1c7f98af867e3b7976c::flx::FLX",
+    "image": "https://coin-images.coingecko.com/coins/images/33317/large/logo_flx.png?1701435649",
+    "current_price_usd": 0.078401,
+    "market_cap_usd": 520303
+  },
+  {
+    "id": "fud-the-pug",
+    "symbol": "FUD",
+    "name": "Fud the Pug",
+    "coin_type": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
+    "image": "https://coin-images.coingecko.com/coins/images/33610/large/pug-head.png?1702513072",
+    "current_price_usd": 7.068e-09,
+    "market_cap_usd": 406327
+  },
+  {
+    "id": "dexscreener-gary",
+    "symbol": "GARY",
+    "name": "Gary the Cat",
+    "coin_type": "0x6829a71c4f91cea2f274f449d878dce8bbe69cf653d27707efc495515773f8a5::gary::GARY"
+  },
+  {
+    "id": "dexscreener-good",
+    "symbol": "GOOD",
+    "name": "Good In The Hood",
+    "coin_type": "0xb96cb38871fcceadb41968e02b429c1ed7cd78f47a8d3abd31742ccf77071555::good::GOOD"
+  },
+  {
+    "id": "haedal",
+    "symbol": "HAEDAL",
+    "name": "Haedal Protocol",
+    "coin_type": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+    "image": "https://coin-images.coingecko.com/coins/images/55420/large/haedal.jpg?1745917281",
+    "current_price_usd": 0.018883,
+    "market_cap_usd": 3682444
+  },
+  {
+    "id": "haedal-staked-sui",
+    "symbol": "HASUI",
+    "name": "Haedal Staked SUI",
+    "coin_type": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+    "image": "https://coin-images.coingecko.com/coins/images/33512/large/hasui.png?1740451722",
+    "current_price_usd": 1.16,
+    "market_cap_usd": 63030163
+  },
+  {
+    "id": "haedal-staked-wal",
+    "symbol": "HAWAL",
+    "name": "Haedal Staked WAL",
+    "coin_type": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
+    "image": "https://coin-images.coingecko.com/coins/images/68689/large/hawal.png?1756277722",
+    "current_price_usd": 0.03419218,
+    "market_cap_usd": 5470.78
+  },
+  {
+    "id": "neuberger-securitize-high-income-tokenized-fund",
+    "symbol": "HINC",
+    "name": "Neuberger Securitize High Income Tokenized Fund",
+    "coin_type": "0xbe8a78c90705d70c57fb4243f72873a303648e25e7b8d76d328fcae368df7b8d",
+    "image": "https://coin-images.coingecko.com/coins/images/102175595/large/hinc.png?1787066199",
+    "current_price_usd": 978.7,
+    "market_cap_usd": 18396441
+  },
+  {
+    "id": "sudeng",
+    "symbol": "HIPPO",
+    "name": "sudeng",
+    "coin_type": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+    "image": "https://coin-images.coingecko.com/coins/images/50450/large/sudeng.png?1753214629",
+    "current_price_usd": 0.00017411,
+    "market_cap_usd": 1741654
+  },
+  {
+    "id": "idngold",
+    "symbol": "IDNG",
+    "name": "IDNGold",
+    "coin_type": "0xde1c9987ec0bb412593ba96977b08879a050ac5b0229bd1e776a596f4be5bfb2::idng::IDNG",
+    "image": "https://coin-images.coingecko.com/coins/images/102172004/large/20260211_185116.jpg?1770925288",
+    "current_price_usd": 99.06,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "ika",
+    "symbol": "IKA",
+    "name": "Ika",
+    "coin_type": "0x7262fb2f7a3a14c888c438a3cd9b912469a58cf60f367352c46584262e8299aa::ika::IKA",
+    "image": "https://coin-images.coingecko.com/coins/images/67598/large/ika.jpg?1753770879",
+    "current_price_usd": 0.00177407,
+    "market_cap_usd": 5324104
+  },
+  {
+    "id": "infinite-sui-glitch",
+    "symbol": "ISG",
+    "name": "Infinite Sui Glitch",
+    "coin_type": "0xa9396a2d0b927fad93666fee828d6cea49c1bf15779d3717b08fa00424669e3e::isg::ISG",
+    "image": "https://coin-images.coingecko.com/coins/images/55370/large/isg_ssusui.png?1745665644",
+    "current_price_usd": 3.4e-06,
+    "market_cap_usd": 3402.58
+  },
+  {
+    "id": "jackson",
+    "symbol": "JACKSON",
+    "name": "JACKSON",
+    "coin_type": "0x5ffe80c90a653e3ca056fd3926987bf3e8068ca21528bb4fdbc4d487cc152dad::jackson::JACKSON",
+    "image": "https://coin-images.coingecko.com/coins/images/102174451/large/aghatrutqnq2emxcok4jlru93tx6.?1783687711",
+    "current_price_usd": 0.01364908,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "jelly-ai",
+    "symbol": "JAI",
+    "name": "JELLY AI",
+    "coin_type": "0x424b293afd846e994a6791f9c47bce03fa3b8a19d54bf670a6bb9de3bc3737c7::jai::JAI",
+    "image": "https://coin-images.coingecko.com/coins/images/52040/large/1000016433.png?1732386873",
+    "current_price_usd": 8.34376e-07,
+    "market_cap_usd": 8343.76
+  },
+  {
+    "id": "jean-sui",
+    "symbol": "JEAN",
+    "name": "Jean sui",
+    "coin_type": "0xc355eec877678040e55e58f3ac985e8a1b42205d5e9025e9711d1dfb3540639e::suipump::SUIPUMP",
+    "image": "https://coin-images.coingecko.com/coins/images/102178851/large/jeansui.jpg?1790494850",
+    "current_price_usd": 7.443e-05,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "kriyadex",
+    "symbol": "KDX",
+    "name": "Kriya",
+    "coin_type": "0x3b68324b392cee9cd28eba82df39860b6b220dc89bdd9b21f675d23d6b7416f1::kdx::KDX",
+    "image": "https://coin-images.coingecko.com/coins/images/53781/large/Kriya_LOGO_1.png?1737345412",
+    "current_price_usd": 0.00020225,
+    "market_cap_usd": 11330.37
+  },
+  {
+    "id": "koban",
+    "symbol": "KOBAN",
+    "name": "KOBAN",
+    "coin_type": "0x8400e7044d360c28dd338111d2aa54ca5bdc960a8d6b60bf3b28e1ca503df3e2::koban::KOBAN",
+    "image": "https://coin-images.coingecko.com/coins/images/55656/large/_KOBAN_200x200.png?1746865309",
+    "current_price_usd": 5.00453e-07,
+    "market_cap_usd": 953.1
+  },
+  {
+    "id": "koi-5",
+    "symbol": "KOI",
+    "name": "KOI",
+    "coin_type": "0x01d430425a8a681ef26315e78a082fe744f8d0bbdbd1ab76b9fd78ada09bedca::Koi::KOI",
+    "image": "https://coin-images.coingecko.com/coins/images/50594/large/photo_2024-09-30_17-12-22.jpg?1728444848",
+    "current_price_usd": 4.15e-06,
+    "market_cap_usd": 4150.92
+  },
+  {
+    "id": "lombard-staked-btc",
+    "symbol": "LBTC",
+    "name": "Lombard BTC",
+    "coin_type": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+    "image": "https://coin-images.coingecko.com/coins/images/39969/large/lbtc-token-circle-200.png?1786635984",
+    "current_price_usd": 82848,
+    "market_cap_usd": 849381208
+  },
+  {
+    "id": "liquor",
+    "symbol": "LIQ",
+    "name": "Liquor",
+    "coin_type": "0x9c86d1926a0a39e906f20674d6a35f337be8625ebcb6b799ee8ff011f328bee2::liq::LIQ",
+    "image": "https://coin-images.coingecko.com/coins/images/50529/large/1000058089.jpg?1728200918",
+    "current_price_usd": 2.58529e-07,
+    "market_cap_usd": 18018.68
+  },
+  {
+    "id": "lofi-2",
+    "symbol": "LOFI",
+    "name": "LOFI",
+    "coin_type": "0xf22da9a24ad027cccb5f2d496cbe91de953d363513db08a3a734d361c7c17503::LOFI::LOFI",
+    "image": "https://coin-images.coingecko.com/coins/images/52058/large/LOFI.png?1732454544",
+    "current_price_usd": 0.01090195,
+    "market_cap_usd": 10900654
+  },
+  {
+    "id": "onbuff",
+    "symbol": "LWA",
+    "name": "LumiWave",
+    "coin_type": "0x3332b178c1513f32bca9cf711b0318c2bca4cb06f1a74211bac97a1eeb7f7259::LWA::LWA",
+    "image": "https://coin-images.coingecko.com/coins/images/12252/large/lwa.jpeg?1716452759",
+    "current_price_usd": 0.00249752,
+    "market_cap_usd": 1923282
+  },
+  {
+    "id": "merlin-s-seal-btc",
+    "symbol": "M-BTC",
+    "name": "Merlin's Seal BTC",
+    "coin_type": "0xd1a91b46bd6d966b62686263609074ad16cfdffc63c31a4775870a2d54d20c6b::mbtc::MBTC",
+    "image": "https://coin-images.coingecko.com/coins/images/36566/large/photo_2024-03-25_22-04-42.jpg?1711936162",
+    "current_price_usd": 81834,
+    "market_cap_usd": 598172688
+  },
+  {
+    "id": "magma-finance",
+    "symbol": "MAGMA",
+    "name": "Magma Finance",
+    "coin_type": "0x9f854b3ad20f8161ec0886f15f4a1752bf75d22261556f14cc8d3a1c5d50e529::magma::MAGMA",
+    "image": "https://coin-images.coingecko.com/coins/images/71100/large/magma.png?1765796989",
+    "current_price_usd": 0.20399,
+    "market_cap_usd": 38757990
+  },
+  {
+    "id": "manifest-3",
+    "symbol": "MANIFEST",
+    "name": "MANIFEST",
+    "coin_type": "0xc466c28d87b3d5cd34f3d5c088751532d71a38d93a8aae4551dd56272cfb4355::manifest::MANIFEST",
+    "image": "https://coin-images.coingecko.com/coins/images/68309/large/Untitled_design_%2868%29.png?1758713257",
+    "current_price_usd": 0.00066626,
+    "market_cap_usd": 541913
+  },
+  {
+    "id": "matic-wormhole",
+    "symbol": "MATICPO",
+    "name": "MATIC (Wormhole)",
+    "coin_type": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/22947/large/MATICpo_wh_small.png?1696522243",
+    "current_price_usd": 0.099327,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "memefi-2",
+    "symbol": "MEMEFI",
+    "name": "MemeFi",
+    "coin_type": "0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI",
+    "image": "https://coin-images.coingecko.com/coins/images/51175/large/memefi.png?1730289107",
+    "current_price_usd": 4.443e-05,
+    "market_cap_usd": 444344
+  },
+  {
+    "id": "miu-2",
+    "symbol": "MIU",
+    "name": "MIU",
+    "coin_type": "0x32a976482bf4154961bf20bfa3567a80122fdf8e8f8b28d752b609d8640f7846::miu::MIU",
+    "image": "https://coin-images.coingecko.com/coins/images/54420/large/miu_200_blue.png?1739602159",
+    "current_price_usd": 1.12e-09,
+    "market_cap_usd": 1007655
+  },
+  {
+    "id": "momentum-3",
+    "symbol": "MMT",
+    "name": "Momentum",
+    "coin_type": "0x35169bc93e1fddfcf3a82a9eae726d349689ed59e4b065369af8789fe59f8608::mmt::MMT",
+    "image": "https://coin-images.coingecko.com/coins/images/69899/large/4_icon_PFP_RGB.png?1762090516",
+    "current_price_usd": 0.180761,
+    "market_cap_usd": 36902033
+  },
+  {
+    "id": "meta-usd",
+    "symbol": "MUSD",
+    "name": "Meta USD",
+    "coin_type": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9666fe5e62b988bf7f0bd8722::musd::MUSD",
+    "image": "https://coin-images.coingecko.com/coins/images/53815/large/musd_%281%29.png?1737454744",
+    "current_price_usd": 0.99743,
+    "market_cap_usd": 144863
+  },
+  {
+    "id": "navi",
+    "symbol": "NAVX",
+    "name": "NAVI Protocol",
+    "coin_type": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+    "image": "https://coin-images.coingecko.com/coins/images/32650/large/Navi.png?1742022349",
+    "current_price_usd": 0.01202649,
+    "market_cap_usd": 9811618
+  },
+  {
+    "id": "suins-token",
+    "symbol": "NS",
+    "name": "SuiNS Token",
+    "coin_type": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
+    "image": "https://coin-images.coingecko.com/coins/images/40110/large/NS_coin.png?1725704829",
+    "current_price_usd": 0.013849,
+    "market_cap_usd": 3819398
+  },
+  {
+    "id": "justonesui",
+    "symbol": "ONE",
+    "name": "JustOneSui",
+    "coin_type": "0xaaffd090b57fcdcf293f7e7ec59c119acc910eeb5fc4aadfb4185fa56b6a2cb5::suipump::SUIPUMP",
+    "image": "https://coin-images.coingecko.com/coins/images/102178962/large/5E77BEB3-D01E-4ECD-91E4-E71C94CF7DEB.jpg?1790772790",
+    "current_price_usd": 0.00028213,
+    "market_cap_usd": 250916
+  },
+  {
+    "id": "phantom-of-the-kill-alternative-imitation-oshi",
+    "symbol": "OSHI",
+    "name": "OSHI3",
+    "coin_type": "0xf16656c7d417654680c9e6a67f626c2c99a7a91011c88bc50d9ccaffdc53081b::oshi::OSHI",
+    "image": "https://coin-images.coingecko.com/coins/images/32481/large/LOGO_Oshi_Token_200-200.png?1698287950",
+    "current_price_usd": 0.00039214,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "pandora-finance",
+    "symbol": "PAN",
+    "name": "Pandora Finance",
+    "coin_type": "0xbc97f3396c28c645e4bb3fa9b1deee399d889703d4de3dbf89d0fe0126151974::pan::PAN"
+  },
+  {
+    "id": "pandasui-coin",
+    "symbol": "PANS",
+    "name": "PandaSui Coin",
+    "coin_type": "0xc9523f683256502be15ec4979098d510f67b6d3f0df02eebf124515014433270::pans::PANS",
+    "image": "https://coin-images.coingecko.com/coins/images/67541/large/Logo.jpg?1775468005",
+    "current_price_usd": 4.4263e-07,
+    "market_cap_usd": 3016.65
+  },
+  {
+    "id": "ponzichu",
+    "symbol": "PCHU",
+    "name": "Ponzichu",
+    "coin_type": "0x0a2a868f6a8618b599e49f6b49240088d85b93660003da5a066841e28f19d629::pchu::PCHU",
+    "image": "https://coin-images.coingecko.com/coins/images/55728/large/PCHU.png?1747240248",
+    "current_price_usd": 2.67e-06,
+    "market_cap_usd": 2667.54
+  },
+  {
+    "id": "pigu",
+    "symbol": "PIGU",
+    "name": "PIGU",
+    "coin_type": "0xfc71274a94f5d9cd1ae6928ecfc9fa910d03eb28258fddeb9842ac3c7b4f3ae6::pigu::PIGU",
+    "image": "https://coin-images.coingecko.com/coins/images/51008/large/Pigu_Logo.png?1729723534",
+    "current_price_usd": 5.34852e-07,
+    "market_cap_usd": 53485
+  },
+  {
+    "id": "popular",
+    "symbol": "POP",
+    "name": "POPULAR",
+    "coin_type": "0xf37a4ca45f2e1f14352c24485aa774888ccb6ac969cde3ef3443ba7d9e957bba::pop::POP",
+    "image": "https://coin-images.coingecko.com/coins/images/102178955/large/POP.jpg?1790749295",
+    "current_price_usd": 7.497e-05,
+    "market_cap_usd": 71533
+  },
+  {
+    "id": "pstake-finance",
+    "symbol": "PSTAKE",
+    "name": "pSTAKE Finance",
+    "coin_type": "0xb66e9e1cd25e8be90091c4f20b42f0472ea22d4244f3bc2241891ed7ad2d80de::celer_pstake_coin::CELER_PSTAKE_COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/23931/large/512_x_512_Dark.png?1721243699",
+    "current_price_usd": 0.00010833,
+    "market_cap_usd": 47627
+  },
+  {
+    "id": "pugwifhat",
+    "symbol": "PUGWIF",
+    "name": "PUGWIFHAT",
+    "coin_type": "0x2cd6f14a4b64c3a0fa9c644e8ed88d9c91d789a071886d67d24e6b435147063d::pugwif::PUGWIF",
+    "image": "https://coin-images.coingecko.com/coins/images/55414/large/IMG_9582.jpeg?1745862929",
+    "current_price_usd": 2.572e-05,
+    "market_cap_usd": 25715
+  },
+  {
+    "id": "agent-s",
+    "symbol": "S",
+    "name": "Agent S",
+    "coin_type": "0xea65bb5a79ff34ca83e2995f9ff6edd0887b08da9b45bf2e31f930d3efb82866::s::S",
+    "image": "https://coin-images.coingecko.com/coins/images/53004/large/1000276184.jpg?1734984802",
+    "current_price_usd": 0.00012064,
+    "market_cap_usd": 120609
+  },
+  {
+    "id": "full-sail",
+    "symbol": "SAIL",
+    "name": "Full Sail",
+    "coin_type": "0x1d4a2bdbc1602a0adaa98194942c220202dcc56bb0a205838dfaa63db0d5497e::SAIL::SAIL",
+    "image": "https://coin-images.coingecko.com/coins/images/68741/large/fullsail.png?1756432255",
+    "current_price_usd": 1.949e-05,
+    "market_cap_usd": 8572.21
+  },
+  {
+    "id": "sui-bridged-ether-sui",
+    "symbol": "SBETH",
+    "name": "Sui Bridged Ether (Sui)",
+    "coin_type": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
+    "image": "https://coin-images.coingecko.com/coins/images/54567/large/sbeth.png?1740452820",
+    "current_price_usd": 2500.62,
+    "market_cap_usd": 8115489
+  },
+  {
+    "id": "suiboxer",
+    "symbol": "SBOX",
+    "name": "SUIBoxer",
+    "coin_type": "0xbff8dc60d3f714f678cd4490ff08cabbea95d308c6de47a150c79cc875e0c7c6::sbox::SBOX",
+    "image": "https://coin-images.coingecko.com/coins/images/30469/large/sbox.jpg?1696529355",
+    "current_price_usd": 7.1095e-14,
+    "market_cap_usd": 14925.85
+  },
+  {
+    "id": "sui-bridged-usdt-sui",
+    "symbol": "SBUSDT",
+    "name": "Sui Bridged USDT (Sui)",
+    "coin_type": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
+    "image": "https://coin-images.coingecko.com/coins/images/56062/large/usdt.jpg?1748225088",
+    "current_price_usd": 0.999242,
+    "market_cap_usd": 7997972
+  },
+  {
+    "id": "scallop-2",
+    "symbol": "SCA",
+    "name": "Scallop",
+    "coin_type": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+    "image": "https://coin-images.coingecko.com/coins/images/34648/large/sca.png?1705592307",
+    "current_price_usd": 0.00497464,
+    "market_cap_usd": 862366
+  },
+  {
+    "id": "sacabam",
+    "symbol": "SCB",
+    "name": "Sacabam",
+    "coin_type": "0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB",
+    "image": "https://coin-images.coingecko.com/coins/images/33497/large/logo_scb.png?1702035651",
+    "current_price_usd": 1.187e-09,
+    "market_cap_usd": 47427
+  },
+  {
+    "id": "scuba-dog",
+    "symbol": "SCUBA",
+    "name": "Scuba Dog",
+    "coin_type": "0x9e6d6124287360cc110044d1f1d7d04a0954eb317c76cf7927244bef0706b113::SCUBA::SCUBA",
+    "image": "https://coin-images.coingecko.com/coins/images/50279/large/2024-09-18_23.55.57.jpg?1726783471",
+    "current_price_usd": 1.322e-05,
+    "market_cap_usd": 13224.02
+  },
+  {
+    "id": "seed-3",
+    "symbol": "SEED",
+    "name": "SEED",
+    "coin_type": "0x1e005d033d858a39e1210aafdd139ce4fa21c79cdb8acadd16513a03c9d4cebd::seed::SEED",
+    "image": "https://coin-images.coingecko.com/coins/images/54939/large/logo_circle.png?1742634174",
+    "current_price_usd": 0.00042264,
+    "market_cap_usd": 153137
+  },
+  {
+    "id": "suilend",
+    "symbol": "SEND",
+    "name": "Suilend",
+    "coin_type": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+    "image": "https://coin-images.coingecko.com/coins/images/50989/large/SEND.png?1729667407",
+    "current_price_usd": 0.054894,
+    "market_cap_usd": 4145696
+  },
+  {
+    "id": "sroomai-dao",
+    "symbol": "SHR0",
+    "name": "SroomAI DAO",
+    "coin_type": "0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR",
+    "image": "https://coin-images.coingecko.com/coins/images/53568/large/0_0_R3_copy.png?1736746258",
+    "current_price_usd": 0.00012709,
+    "market_cap_usd": 139799
+  },
+  {
+    "id": "skeleton",
+    "symbol": "SKELSUI",
+    "name": "SKELETON",
+    "coin_type": "0x84604526d71bbe7738c3c02d3c8a48778955718289c03d814d8468b58ae9a898::skelsui::SKELSUI",
+    "image": "https://coin-images.coingecko.com/coins/images/68222/large/Desain_tanpa_judul_%2825%29.png?1755110661",
+    "current_price_usd": 2.389e-05,
+    "market_cap_usd": 23886
+  },
+  {
+    "id": "slove",
+    "symbol": "SLOVE",
+    "name": "SLOVE",
+    "coin_type": "0x6dd439dee053557b3dd340287a4b81099b3e729cb48fbdae726dd2dff82736c3::slove::SLOVE",
+    "image": "https://coin-images.coingecko.com/coins/images/54967/large/logo_square_color.png?1742922777",
+    "current_price_usd": 0.00019731,
+    "market_cap_usd": 17757.93
+  },
+  {
+    "id": "sodax",
+    "symbol": "SODA",
+    "name": "SODAX",
+    "coin_type": "0x0a0393721732617a2a771535e83c0a46f04aeef7d03239bbbb1249bc0981b952::soda::SODA",
+    "image": "https://coin-images.coingecko.com/coins/images/55710/large/sodax.jpg?1747127833",
+    "current_price_usd": 0.00908695,
+    "market_cap_usd": 9807714
+  },
+  {
+    "id": "wormhole-bridged-wrapped-sol-sui",
+    "symbol": "SOL",
+    "name": "Wormhole Bridged Wrapped SOL (Sui)",
+    "coin_type": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/53676/large/solana.jpg?1737009234",
+    "current_price_usd": 110.38,
+    "market_cap_usd": 202040378
+  },
+  {
+    "id": "sonic-snipe-bot",
+    "symbol": "SONIC",
+    "name": "Sonic Snipe Bot",
+    "coin_type": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
+    "image": "https://coin-images.coingecko.com/coins/images/50618/large/logo.png?1728490696",
+    "current_price_usd": 0.01893226,
+    "market_cap_usd": 115486
+  },
+  {
+    "id": "spring-staked-sui",
+    "symbol": "SSUI",
+    "name": "Spring Staked SUI",
+    "coin_type": "0x83556891f4a0f233ce7b05cfe7f957d4020492a34f5405b2cb9377d060bef4bf::spring_sui::SPRING_SUI",
+    "image": "https://coin-images.coingecko.com/coins/images/51233/large/Token_%281%29.png?1730446421",
+    "current_price_usd": 1.11,
+    "market_cap_usd": 9196502
+  },
+  {
+    "id": "ssui",
+    "symbol": "SSUI",
+    "name": "sSUI",
+    "coin_type": "0xaafc4f740de0dd0dde642a31148fb94517087052f19afb0f7bed1dc41a50c77b::scallop_sui::SCALLOP_SUI",
+    "image": "https://coin-images.coingecko.com/coins/images/53840/large/ssui.png?1737563403",
+    "current_price_usd": 1.37,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "lorenzo-stbtc",
+    "symbol": "STBTC",
+    "name": "Lorenzo stBTC",
+    "coin_type": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/50978/large/a.jpg?1730208372",
+    "current_price_usd": 81605,
+    "market_cap_usd": 24965581
+  },
+  {
+    "id": "alphafi-staked-sui",
+    "symbol": "STSUI",
+    "name": "AlphaFi Staked SUI",
+    "coin_type": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
+    "image": "https://coin-images.coingecko.com/coins/images/54211/large/b_r2Ps67_400x400.png?1738784534",
+    "current_price_usd": 1.11,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "sui-universe",
+    "symbol": "SU",
+    "name": "Sui Universe",
+    "coin_type": "0x53a63d7202fc83b39acb437e0f99aae0a73a96506ccfb1d1073710cdcefc26a2::su::SU",
+    "image": "https://coin-images.coingecko.com/coins/images/53434/large/8a9d3643-0875-4a6a-b9cd-7cd60862455e.jpg?1736369649",
+    "current_price_usd": 3.84194e-07,
+    "market_cap_usd": 3841.94
+  },
+  {
+    "id": "suiai",
+    "symbol": "SUAI",
+    "name": "SuiAI",
+    "coin_type": "0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI",
+    "image": "https://coin-images.coingecko.com/coins/images/52807/large/suag_logo.png?1734360654",
+    "current_price_usd": 0.00010261,
+    "market_cap_usd": 102577
+  },
+  {
+    "id": "sui",
+    "symbol": "SUI",
+    "name": "Sui",
+    "coin_type": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+    "image": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+    "current_price_usd": 1.07,
+    "market_cap_usd": 4405422711
+  },
+  {
+    "id": "dexscreener-sui",
+    "symbol": "SUI",
+    "name": "Sui",
+    "coin_type": "0x2::sui::SUI"
+  },
+  {
+    "id": "suia",
+    "symbol": "SUIA",
+    "name": "SUIA",
+    "coin_type": "0x1d58e26e85fbf9ee8596872686da75544342487f95b1773be3c9a49ab1061b19::suia_token::SUIA_TOKEN",
+    "image": "https://coin-images.coingecko.com/coins/images/30385/large/suia.jpg?1696529274",
+    "current_price_usd": 0.0005806,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "sui-agents",
+    "symbol": "SUIAI",
+    "name": "SUI Agents",
+    "coin_type": "0xdc083ed335b5fe342cca1d5887530336246ed7d80da6bcecbc7c1becb88074ee::mycoin::MYCOIN",
+    "image": "https://coin-images.coingecko.com/coins/images/52545/large/200x200.jpg?1733588339",
+    "current_price_usd": 0.00023494,
+    "market_cap_usd": 15690.5
+  },
+  {
+    "id": "suiba-inu",
+    "symbol": "SUIB",
+    "name": "Suiba Inu",
+    "coin_type": "0xed4504e791e1dad7bf93b41e089b4733c27f35fde505693e18186c2ba8e2e14b::suib::SUIB",
+    "image": "https://coin-images.coingecko.com/coins/images/50356/large/updated_logo_feb2024.png?1727284329",
+    "current_price_usd": 1.967e-05,
+    "market_cap_usd": 19667.71
+  },
+  {
+    "id": "suicat",
+    "symbol": "SUICAT",
+    "name": "Suicat",
+    "coin_type": "0x63e89267aad1dcbd9fb84e7686db54bd128cb25ce4e9f1fda97fc716c4b73682::suipump::SUIPUMP",
+    "image": "https://coin-images.coingecko.com/coins/images/102175818/large/q3hmecaxn4kfe7dt3afn4edafr7w.?1787666273",
+    "current_price_usd": 0.00012123,
+    "market_cap_usd": 111684
+  },
+  {
+    "id": "suicy-the-seal",
+    "symbol": "SUICY",
+    "name": "Suicy the Seal",
+    "coin_type": "0x8989c726bf1ea8736919e41938f3801e286bc71d9612bfe250703232a375eaab::suicy::SUICY",
+    "image": "https://coin-images.coingecko.com/coins/images/51525/large/1000000144.png?1754713153",
+    "current_price_usd": 1.126e-05,
+    "market_cap_usd": 11260.14
+  },
+  {
+    "id": "sui-depin",
+    "symbol": "SUIDEPIN",
+    "name": "Sui DePIN",
+    "coin_type": "0x3599429d66965021f6ce08a997e81bb3c1f2c1b9a8fbb19953e26f5dc55e91ef::suidepin::SUIDEPIN"
+  },
+  {
+    "id": "suiman",
+    "symbol": "SUIMAN",
+    "name": "Suiman",
+    "coin_type": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
+    "image": "https://coin-images.coingecko.com/coins/images/50499/large/suiman.jpg?1727972734",
+    "current_price_usd": 3.035e-05,
+    "market_cap_usd": 30342
+  },
+  {
+    "id": "suimon",
+    "symbol": "SUIMON",
+    "name": "Suimon",
+    "coin_type": "0xcb8fc6858b4d600611cb783a65459695711b8aaca0e949ef5aa1268d1e32f786::suimon::SUIMON",
+    "image": "https://coin-images.coingecko.com/coins/images/55957/large/1000093139.jpg?1747864178",
+    "current_price_usd": 3.245e-05,
+    "market_cap_usd": 32436
+  },
+  {
+    "id": "rwadepin-protocol",
+    "symbol": "SUIRWAPIN",
+    "name": "RWADepin Protocol",
+    "coin_type": "0xa784ee99f7ed95f19a1a8dba8f3953cd2f92be2d721f379fa1dc4e1f488f2364::suirwapin::SUIRWAPIN",
+    "image": "https://coin-images.coingecko.com/coins/images/55721/large/blue_to_be_used.png?1747234872",
+    "current_price_usd": 4.6e-06,
+    "market_cap_usd": 2677.52
+  },
+  {
+    "id": "sui-trump",
+    "symbol": "SUITRUMP",
+    "name": "SUITRUMP",
+    "coin_type": "0xdeb831e796f16f8257681c0d5d4108fa94333060300b2459133a96631bf470b8::suitrump::SUITRUMP",
+    "image": "https://coin-images.coingecko.com/coins/images/53791/large/suitrumplogo200x.png?1737383096",
+    "current_price_usd": 9.17e-06,
+    "market_cap_usd": 86024
+  },
+  {
+    "id": "esui-dollar",
+    "symbol": "SUIUSDE",
+    "name": "eSui Dollar",
+    "coin_type": "0x41d587e5336f1c86cad50d38a7136db99333bb9bda91cea4ba69115defeb1402::sui_usde::SUI_USDE",
+    "image": "https://coin-images.coingecko.com/coins/images/102172002/large/suiusdecorrect.png?1770891184",
+    "current_price_usd": 0.998731,
+    "market_cap_usd": 12360566
+  },
+  {
+    "id": "super-suiyan",
+    "symbol": "SUIYAN",
+    "name": "Super Suiyan",
+    "coin_type": "0xe0fbaffa16409259e431b3e1ff97bf6129641945b42e5e735c99aeda73a595ac::suiyan::SUIYAN",
+    "image": "https://coin-images.coingecko.com/coins/images/51684/large/suiyanpfp.png?1731786450",
+    "current_price_usd": 3.12e-06,
+    "market_cap_usd": 31146
+  },
+  {
+    "id": "supersui",
+    "symbol": "SUPERSUI",
+    "name": "superSUI",
+    "coin_type": "0x790f258062909e3a0ffc78b3c53ac2f62d7084c3bab95644bdeb05add7250001::super_sui::SUPER_SUI",
+    "image": "https://coin-images.coingecko.com/coins/images/54286/large/super-sui_%281%29%281%29.png?1739001023",
+    "current_price_usd": 1.085,
+    "market_cap_usd": 3487276
+  },
+  {
+    "id": "staked-usn",
+    "symbol": "SUSN",
+    "name": "Staked USN",
+    "coin_type": "0x0a672389b7b73df60d40666ac9545433d59d3128086b9e3a425a66bbffdf4dc5::susn::SUSN",
+    "image": "https://coin-images.coingecko.com/coins/images/54924/large/sUSN_Logo.png?1742538935",
+    "current_price_usd": 1.23,
+    "market_cap_usd": 33533100
+  },
+  {
+    "id": "svalbard-btc",
+    "symbol": "SVBTC",
+    "name": "Svalbard BTC",
+    "coin_type": "0x7a479e7a6e75323ac9125656a9ca795e11ea42165ac4206af44d1b66e9563be9::svbtc::SVBTC",
+    "image": "https://coin-images.coingecko.com/coins/images/102175747/large/default.jpeg?1787306866",
+    "current_price_usd": 83104,
+    "market_cap_usd": 15789688
+  },
+  {
+    "id": "sweatcoin",
+    "symbol": "SWEAT",
+    "name": "SWEAT",
+    "coin_type": "0xf0b202ef3e107ff4fc0142bbb9a607bf73b8f6460c5026d5c21c6f2e0a9a1083::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/25057/large/Sweat_-_logo-nov-2025.png?1762411781",
+    "current_price_usd": 0.00017525,
+    "market_cap_usd": 2368547
+  },
+  {
+    "id": "overtake",
+    "symbol": "TAKE",
+    "name": "OVERTAKE",
+    "coin_type": "0x76a49ebaf991fa2d4cb6a352af14425d453fe2ba6802b5ed2361b227150b6689::take::TAKE",
+    "image": "https://coin-images.coingecko.com/coins/images/68577/large/overtake.png?1756118725",
+    "current_price_usd": 0.063969,
+    "market_cap_usd": 23811756
+  },
+  {
+    "id": "tardi",
+    "symbol": "TARDI",
+    "name": "Tardi",
+    "coin_type": "0x4cf08813756dfa7519cb480a1a1a3472b5b4ec067592a8bee0f826808d218158::tardi::TARDI",
+    "image": "https://coin-images.coingecko.com/coins/images/52718/large/hero_png.png?1735991559",
+    "current_price_usd": 0.00016575,
+    "market_cap_usd": 165751
+  },
+  {
+    "id": "pawtato",
+    "symbol": "TATO",
+    "name": "Pawtato",
+    "coin_type": "0x04deb377c33bfced1ab81cde96918e2538fe78735777150b0064ccf7df5e1c81::tato::TATO",
+    "image": "https://coin-images.coingecko.com/coins/images/70687/large/TATO-Token-transparent-200x200px.png?1769615505",
+    "current_price_usd": 0.00604884,
+    "market_cap_usd": 1880908
+  },
+  {
+    "id": "tbtc",
+    "symbol": "TBTC",
+    "name": "tBTC",
+    "coin_type": "0x77045f1b9f811a7a8fb9ebd085b5b0c55c5cb0d1520ff55f7037f89b5da9f5f1::TBTC::TBTC",
+    "image": "https://coin-images.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
+    "current_price_usd": 82620,
+    "market_cap_usd": 338873956
+  },
+  {
+    "id": "tism",
+    "symbol": "TISM",
+    "name": "TISM",
+    "coin_type": "0x6612c8419c70a706612e154ffcc0ef21b3fec6e4008b4b775ceae4e894d3484d::tism::TISM",
+    "image": "https://coin-images.coingecko.com/coins/images/51588/large/9ck5D6Sa_400x400.png?1731569737",
+    "current_price_usd": 2.99e-06,
+    "market_cap_usd": 2985.95
+  },
+  {
+    "id": "toilet-dust",
+    "symbol": "TOILET",
+    "name": "Toilet Dust",
+    "coin_type": "0xc5b61b1e1f7f88511c9c0c6f475f823c66cc4e2d39a49beb6777059710be8404::toilet::TOILET",
+    "image": "https://coin-images.coingecko.com/coins/images/54943/large/H9h5ItJK_400x400.jpg?1773933877",
+    "current_price_usd": 6.82e-06,
+    "market_cap_usd": 68140
+  },
+  {
+    "id": "thickquidity",
+    "symbol": "TREE",
+    "name": "Thickquidity",
+    "coin_type": "0x6c5a609f6d0288523ce4a6ed87d19ae127f62073ab75fd9b0b1c9b455d4895cf::tree::TREE",
+    "image": "https://coin-images.coingecko.com/coins/images/102172873/large/GxnkhDBXMAAftsM.jpg?1776395295",
+    "current_price_usd": 2.844e-05,
+    "market_cap_usd": 28443
+  },
+  {
+    "id": "swarm-network",
+    "symbol": "TRUTH",
+    "name": "Swarm Network",
+    "coin_type": "0x0a48f85a3905cfa49a652bdb074d9e9fabad27892d54afaa5c9e0adeb7ac3cdf::swarm_network_token::SWARM_NETWORK_TOKEN",
+    "image": "https://coin-images.coingecko.com/coins/images/69599/large/truth.png?1759208403",
+    "current_price_usd": 0.01377447,
+    "market_cap_usd": 28730260
+  },
+  {
+    "id": "turbos-finance",
+    "symbol": "TURBOS",
+    "name": "Turbos Finance",
+    "coin_type": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
+    "image": "https://coin-images.coingecko.com/coins/images/30349/large/ggut-eKC_400x400.jpg?1696529249",
+    "current_price_usd": 0.00013075,
+    "market_cap_usd": 865600
+  },
+  {
+    "id": "typus",
+    "symbol": "TYPUS",
+    "name": "Typus",
+    "coin_type": "0xf82dc05634970553615eef6112a1ac4fb7bf10272bf6cbe0f80ef44a6c489385::typus::TYPUS",
+    "image": "https://coin-images.coingecko.com/coins/images/51961/large/Typus_logo_icon_circle.png?1732264493",
+    "current_price_usd": 0.00048586,
+    "market_cap_usd": 485749
+  },
+  {
+    "id": "uni",
+    "symbol": "UNI",
+    "name": "Uni",
+    "coin_type": "0xaf9e228fd0292e2a27b4859bc57a2f3a9faedb9341b6307c84fef163e44790cc::uni::UNI",
+    "image": "https://coin-images.coingecko.com/coins/images/50744/large/CUQw_tZe_400x400.jpg?1728953292",
+    "current_price_usd": 7.174e-05,
+    "market_cap_usd": 71718
+  },
+  {
+    "id": "doubleup",
+    "symbol": "UP",
+    "name": "DoubleUp",
+    "coin_type": "0x87dfe1248a1dc4ce473bd9cb2937d66cdc6c30fee63f3fe0dbb55c7a09d35dec::up::UP",
+    "image": "https://coin-images.coingecko.com/coins/images/55718/large/Diamond_Only_200x200.png?1747209511",
+    "current_price_usd": 0.00246932,
+    "market_cap_usd": 91365
+  },
+  {
+    "id": "talus",
+    "symbol": "US",
+    "name": "Talus",
+    "coin_type": "0xee962a61432231c2ede6946515beb02290cb516ad087bb06a731e922b2a5f57a::us::US",
+    "image": "https://coin-images.coingecko.com/coins/images/70693/large/us-icon.png?1763129786",
+    "current_price_usd": 0.02874923,
+    "market_cap_usd": 83654404
+  },
+  {
+    "id": "bucket-usd",
+    "symbol": "USDB",
+    "name": "Bucket USD",
+    "coin_type": "0xe14726c336e81b32328e92afc37345d159f5b550b09fa92bd43640cfdd0a0cfd::usdb::USDB",
+    "image": "https://coin-images.coingecko.com/coins/images/69088/large/usdb.png?1757471795",
+    "current_price_usd": 0.996683,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "usd-coin",
+    "symbol": "USDC",
+    "name": "USDC",
+    "coin_type": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+    "image": "https://coin-images.coingecko.com/coins/images/6319/large/USDC.png?1769615602",
+    "current_price_usd": 0.999612,
+    "market_cap_usd": 72999552089
+  },
+  {
+    "id": "usd-coin-wormhole-bnb",
+    "symbol": "USDCBNB",
+    "name": "Bridged USD Coin (Wormhole BNB)",
+    "coin_type": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/30649/large/USDC.png?1772637589",
+    "current_price_usd": 0.999612,
+    "market_cap_usd": 19862.78
+  },
+  {
+    "id": "usd-coin-wormhole-from-ethereum",
+    "symbol": "USDCET",
+    "name": "Bridged USD Coin (Wormhole Ethereum)",
+    "coin_type": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/23019/large/USDCet_wh_small.png?1696522314",
+    "current_price_usd": 0.999612,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "usdsui",
+    "symbol": "USDSUI",
+    "name": "USDsui",
+    "coin_type": "0x44f838219cf67b058f3b37907b655f226153c18e33dfcd0da559a844fea9b1c1::usdsui::USDSUI",
+    "image": "https://coin-images.coingecko.com/coins/images/70675/large/usdsui.png?1772769756",
+    "current_price_usd": 0.998829,
+    "market_cap_usd": 79950386
+  },
+  {
+    "id": "tether-usd-wormhole-from-ethereum",
+    "symbol": "USDT",
+    "name": "Wormhole Bridged USDT",
+    "coin_type": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/23025/large/USDTet_wh_small.png?1696522320",
+    "current_price_usd": 0.999242,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "ondo-us-dollar-yield",
+    "symbol": "USDY",
+    "name": "Ondo US Dollar Yield",
+    "coin_type": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+    "image": "https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524",
+    "current_price_usd": 1.15,
+    "market_cap_usd": 2316696100
+  },
+  {
+    "id": "usdz",
+    "symbol": "USDZ",
+    "name": "USDZ",
+    "coin_type": "0x7fd8aba1652c58b6397c799fd375e748e5053145cb7e126d303e0a1545fd1fec::usdz::USDZ",
+    "image": "https://coin-images.coingecko.com/coins/images/68186/large/usdz.png?1755008877",
+    "current_price_usd": 0.979209,
+    "market_cap_usd": 293763
+  },
+  {
+    "id": "victory-2",
+    "symbol": "VICTORY",
+    "name": "VICTORY",
+    "coin_type": "0xbfac5e1c6bf6ef29b12f7723857695fd2f4da9a11a7d88162c15e9124c243a4a::victory_token::VICTORY_TOKEN",
+    "image": "https://coin-images.coingecko.com/coins/images/102172914/large/victorylogo.png?1776528881",
+    "current_price_usd": 0.0001527,
+    "market_cap_usd": 18204.42
+  },
+  {
+    "id": "volo-staked-sui",
+    "symbol": "VSUI",
+    "name": "Volo Staked SUI",
+    "coin_type": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+    "image": "https://coin-images.coingecko.com/coins/images/33243/large/voloSUI_%283%29.png?1701171551",
+    "current_price_usd": 1.14,
+    "market_cap_usd": 38380689
+  },
+  {
+    "id": "walrus-2",
+    "symbol": "WAL",
+    "name": "Walrus",
+    "coin_type": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+    "image": "https://coin-images.coingecko.com/coins/images/54914/large/Walrus_Token_Full_Color_200x200.png?1772722407",
+    "current_price_usd": 0.0343588,
+    "market_cap_usd": 89921660
+  },
+  {
+    "id": "warped-games",
+    "symbol": "WARPED",
+    "name": "Warped",
+    "coin_type": "0x50c9c77f29de11a2abdbe60e0869a026dc47c94bfc4e7d461c80313b079d44d2::warped::WARPED",
+    "image": "https://coin-images.coingecko.com/coins/images/33307/large/WarpedGames_Logo_Main_Isotype_Color-TransparentBG.png?1763209428",
+    "current_price_usd": 7.617e-05,
+    "market_cap_usd": 703498
+  },
+  {
+    "id": "wave",
+    "symbol": "WAV",
+    "name": "WAVE",
+    "coin_type": "0x82616322719cb327186d5b83a6d7783ce5cef4c5dbd4c6d1b5f3d6e5d288e2be::wav::WAV",
+    "image": "https://coin-images.coingecko.com/coins/images/55041/large/WAVE_200x200.png?1743406100",
+    "current_price_usd": 6.843e-05,
+    "market_cap_usd": 37319
+  },
+  {
+    "id": "binance-coin-wormhole",
+    "symbol": "WBNB",
+    "name": "Wrapped BNB (Wormhole)",
+    "coin_type": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1696522182",
+    "current_price_usd": 742.49,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "sui-bridged-wbtc-sui",
+    "symbol": "WBTC",
+    "name": "Sui Bridged WBTC (Sui)",
+    "coin_type": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
+    "image": "https://coin-images.coingecko.com/coins/images/67277/large/WBTCLOGO.png?1764570083",
+    "current_price_usd": 82627,
+    "market_cap_usd": 8946984
+  },
+  {
+    "id": "wrapped-btc-wormhole",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC (Wormhole)",
+    "coin_type": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+    "image": "https://coin-images.coingecko.com/coins/images/23004/large/WBTC_wh_small.png?1696522299",
+    "current_price_usd": 82523,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "coin_type": "0x0041f9f9344cac094454cd574e333c4fdb132d7bcc9379bcd4aab485b2a63942::wbtc::WBTC",
+    "image": "https://coin-images.coingecko.com/coins/images/7598/large/WBTCLOGO.png?1764496367",
+    "current_price_usd": 82514,
+    "market_cap_usd": 9582548859
+  },
+  {
+    "id": "win-2",
+    "symbol": "WIN",
+    "name": "WIN",
+    "coin_type": "0xe6b9e1033c72084ad01db37c77778ca53b9c4ebb263f28ffbfed39f4d5fd5057::win::WIN",
+    "image": "https://coin-images.coingecko.com/coins/images/54540/large/WIN_token_logo_%282%29_%281%29.png?1740218129",
+    "current_price_usd": 4.06e-06,
+    "market_cap_usd": 7488.36
+  },
+  {
+    "id": "winter-walrus-staked-wal",
+    "symbol": "WWAL",
+    "name": "Winter Walrus Staked WAL",
+    "coin_type": "0xb1b0650a8862e30e3f604fd6c5838bc25464b8d3d827fbd58af7cb9685b832bf::wwal::WWAL",
+    "image": "https://coin-images.coingecko.com/coins/images/69087/large/wwal.png?1757471254",
+    "current_price_usd": 0.239421,
+    "market_cap_usd": 0.0
+  },
+  {
+    "id": "matrixdock-silver",
+    "symbol": "XAGM",
+    "name": "Matrixdock Silver",
+    "coin_type": "0x64bddec0f898ccaa022b8a6e0a5f75d80f53177b87a9795dd15aefe9ac12ee6c::xagm::XAGM",
+    "image": "https://coin-images.coingecko.com/coins/images/102172552/large/XAGM_icon.png?1773848751",
+    "current_price_usd": 62.03,
+    "market_cap_usd": 4531625
+  },
+  {
+    "id": "matrixdock-gold",
+    "symbol": "XAUM",
+    "name": "Matrixdock Gold",
+    "coin_type": "0x9d297676e7a4b771ab023291377b2adfaa4938fb9080b8d12430e4b108b836a9::xaum::XAUM",
+    "image": "https://coin-images.coingecko.com/coins/images/51962/large/xaum_200px_logo_1x.png?1733560735",
+    "current_price_usd": 4124.96,
+    "market_cap_usd": 68957131
+  },
+  {
+    "id": "okx-wrapped-btc",
+    "symbol": "XBTC",
+    "name": "OKX Wrapped BTC",
+    "coin_type": "0x876a4b7bce8aeaef60464c11f4026903e9afacab79b9b142686158aa86560b50::xbtc::XBTC",
+    "image": "https://coin-images.coingecko.com/coins/images/66627/large/xbtc.png?1750067602",
+    "current_price_usd": 82640,
+    "market_cap_usd": 56748400
+  },
+  {
+    "id": "xmoney-2",
+    "symbol": "XMN",
+    "name": "xMoney",
+    "coin_type": "0x97c7571f4406cdd7a95f3027075ab80d3e9c937c2a567690d31e14ab1872ccee::xmn::XMN",
+    "image": "https://coin-images.coingecko.com/coins/images/69065/large/xmn-token-3000w.png?1757412455",
+    "current_price_usd": 0.00045601,
+    "market_cap_usd": 1575923
+  },
+  {
+    "id": "xociety",
+    "symbol": "XO",
+    "name": "Xociety",
+    "coin_type": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
+    "image": "https://coin-images.coingecko.com/coins/images/66854/large/jEA3F9KV_400x400.png?1750840798",
+    "current_price_usd": 2.329e-05,
+    "market_cap_usd": 12342.61
+  },
+  {
+    "id": "xsui",
+    "symbol": "XSUI",
+    "name": "xSUI",
+    "coin_type": "0x2b6602099970374cf58a2a1b9d96f005fccceb81e92eb059873baf420eb6c717::x_sui::X_SUI",
+    "image": "https://coin-images.coingecko.com/coins/images/67109/large/xsui.png?1751783087",
+    "current_price_usd": 1.091,
+    "market_cap_usd": 259223
+  },
+  {
+    "id": "zenfrogs",
+    "symbol": "ZEN",
+    "name": "ZenFrogs",
+    "coin_type": "0x2665dc784c7ff17fddba2442b36cb8b2bbc8adfa9fe08794fd941d80ef2758ec::zen::ZEN",
+    "image": "https://coin-images.coingecko.com/coins/images/51833/large/ZenFrogs-logo-black-2.png?1732044319",
+    "current_price_usd": 3.64e-06,
+    "market_cap_usd": 33939
+  },
+  {
+    "id": "zo-perpetuals-lp-token",
+    "symbol": "ZLP",
+    "name": "ZO Perpetuals LP Token",
+    "coin_type": "0xf7fade57462e56e2eff1d7adef32e4fd285b21fd81f983f407bb7110ca766cda::zlp::ZLP",
+    "image": "https://coin-images.coingecko.com/coins/images/55381/large/zlp.png?1745702685",
+    "current_price_usd": 0.432982,
+    "market_cap_usd": 0.0
+  }
+]
